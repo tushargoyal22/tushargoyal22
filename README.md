@@ -3,9 +3,9 @@
 
 - 📄 Pre-Final UG CSE **@ IIT Mandi**
 
-- 👨‍💻 Upcoming SDE Summer Intern'21 **@Walmart**
+- 👨‍💻 SDE Summer Intern'21 **@Walmart**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Spring Boot, React JS**
 
 - 📫 How to reach me **tushar22.tg.tg@gmail.com**
 
