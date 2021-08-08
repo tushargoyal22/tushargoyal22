@@ -3,7 +3,7 @@
 
 - 📄 Pre-Final UG CSE **@ IIT Mandi**
 
-- 👨‍💻 SDE Summer Intern'21 **@Walmart**
+- 👨‍💻 Former SDE Summer Intern'21 **@Walmart**
 
 - 🌱 I’m currently learning **Spring Boot, React JS**
 
