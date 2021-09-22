@@ -5,7 +5,7 @@
 
 - 👨‍💻 Former SDE Summer Intern'21 **@Walmart**
 
-- 🌱 I’m currently learning **Spring Boot, React JS**
+- 🌱 I’m currently learning **Ruby on Rails**
 
 - 📫 How to reach me **tushar22.tg.tg@gmail.com**
 
