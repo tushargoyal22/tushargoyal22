@@ -5,7 +5,7 @@
 
 - 👨‍💻 Former SDE Summer Intern'21 **@Walmart**
 
-- 🌱 I’m currently learning **Ruby on Rails**
+- 🌱 I’m currently learning **Golang**
 
 - 📫 How to reach me **tushar22.tg.tg@gmail.com**
 
