@@ -3,7 +3,7 @@
 
 - 📄 Pre-Final UG CSE **@ IIT Mandi**
 
-- 👨‍💻 Former SDE Summer Intern'21 **@Walmart** , **BYJU's**
+- 👨‍💻 Former SDE Summer Intern'21 **@Walmart** , **BYJU's**,  **Fi**
 
 - 🌱 I’m currently learning **Golang**
 
