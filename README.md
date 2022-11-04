@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tushar Goyal</h1>
 <h3 align="center">Exploring new stuff</h3>
 
-- 📄 Pre-Final UG CSE **@ IIT Mandi**
+- 📄CSE **@ IIT Mandi - (2018 - 2022)**
+
+- 👨‍💻 Software Engineer @ D.E. Shaw & Co.
 
 - 👨‍💻 Former SDE Summer Intern'21 **@Walmart** , **BYJU's**,  **Fi**
 
