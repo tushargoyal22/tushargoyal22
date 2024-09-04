@@ -7,8 +7,6 @@
 
 - 👨‍💻 Former SDE Summer Intern'21 **@Walmart** , **BYJU's**,  **Fi**
 
-- 🌱 I’m currently learning **Golang**
-
 - 📫 How to reach me **tushar22.tg.tg@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
